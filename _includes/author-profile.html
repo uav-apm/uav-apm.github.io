@@ -20,6 +20,14 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
+  <div class="author__content">
+    <h3 class="author__name">Project Researcher:</h3>
+    <h3 class="author__name"><a href="mailto:{{author.researcher_email}}" >{{ author.researcher }}</a></h3>
+    <h3 class="author__name">Project Supervisor:</h3>
+    <h3 class="author__name"><a href="mailto:{{author.supervisor_email}}" >{{ author.supervisor }}</a></h3>
+  
+  </div>
+
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
