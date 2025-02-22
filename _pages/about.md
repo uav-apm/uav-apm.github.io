@@ -17,12 +17,12 @@ Air pollution and climate change are major environmental challenges requiring in
   <tr>
     <td>
       <a href="https://symeco.lero.ie/programme/">
-        <img src="/images/logos/SyMeCo.png" alt="Systems Methods Context (SyMeCo) Logo" width="45%">
+        <img src="/images/logos/SyMeCo.png" alt="Systems Methods Context (SyMeCo) Logo" >
       </a>
     </td>
     <td>
       <a href="https://lero.ie/">
-        <img src="/images/logos/LERO.png" alt="LERO Logo" width="45%">
+        <img src="/images/logos/LERO.png" alt="LERO Logo">
       </a>
     </td>
   </tr>
