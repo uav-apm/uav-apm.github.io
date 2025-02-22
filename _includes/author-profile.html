@@ -19,15 +19,6 @@
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
-
-  <div class="author__content">
-    <h5 class="author__content">Project Researcher:</h5>
-    <h6 class="author__content"><a href="{{author.researcher_uri}}" >{{ author.researcher }}</a></h6> 
-  </div>
-  <div class="author__content">
-    <h5 class="author__content">Project Supervisor:</h5>
-    <h6 class="author__content"><a href="{{author.supervisor_uri}}" >{{ author.supervisor }}</a></h6>
-  </div>
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
@@ -166,5 +157,15 @@
       {% endif %}      
     </ul>
   </div>
+
+  <div class="author__content">
+    <h5 class="author__content">Project Researcher:</h5>
+    <h6 class="author__content"><a href="{{author.researcher_uri}}" >{{ author.researcher }}</a></h6> 
+  </div>
+  <div class="author__content">
+    <h5 class="author__content">Project Supervisor:</h5>
+    <h6 class="author__content"><a href="{{author.supervisor_uri}}" >{{ author.supervisor }}</a></h6>
+  </div>
+ 
 
 </div>
