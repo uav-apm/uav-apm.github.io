@@ -8,7 +8,11 @@ redirect_from:
 ---
 
 Air pollution and climate change are major environmental challenges requiring innovative solutions. This project aims to develop a flexible Air Quality Monitoring System (AQMS) using UAV-mounted sensors to collect and predict air pollutant concentrations efficiently. Designed for rapid deployment at events like city fairs, outdoor sports, and industrial sites, the system optimizes data collection by predicting air quality with minimal sensing locations. Building on research in UAV-based sensing, pollutant prediction, and optimized sensor placement, this solution enhances monitoring efficiency, reduces costs, and supports authorities in protecting public health, particularly during short-term pollution spikes.
+[![University of Galway](/images/logos/UoG.png)](https://www.universityofgalway.ie/)
 
+[![Systems Methods Context ](/images/logos/SyMeCo.png)](https://symeco.lero.ie/programme/) [![LERO](/images/logos/LERO.png)](https://lero.ie/)
+
+[![Environmental Protection Agency](/images/logos/EPA.jpg)](https://www.epa.ie/)
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
