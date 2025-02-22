@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Project Description:
 
 Air pollution and climate change are major environmental challenges requiring innovative solutions. This project aims to develop a flexible Air Quality Monitoring System (AQMS) using UAV-mounted sensors to collect and predict air pollutant concentrations efficiently. Designed for rapid deployment at events like city fairs, outdoor sports, and industrial sites, the system optimizes data collection by predicting air quality with minimal sensing locations. Building on research in UAV-based sensing, pollutant prediction, and optimized sensor placement, this solution enhances monitoring efficiency, reduces costs, and supports authorities in protecting public health, particularly during short-term pollution spikes.
 
