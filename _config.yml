@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-IE"
 site_theme               : "default"
 title                    : "UAV-Enhanced Air Pollutants Concentration Monitoring and Prediction"
 title_separator          : "-"
@@ -31,18 +31,17 @@ author:
   uri              : # URL
   email            : "uav-apm@outlook.com" 
   researcher       : "Dr. Ahmed Moursi"
-  researcher_email : "ahmed.moursi@universityofgalway.ie"
+  researcher_uri   : "https://ahmedhashwa.github.io/"
   supervisor       : "Dr. Takfarinas Saber"
-  supervisor_email : "takfarinas.saber@universityofgalway.ie"
-
+  supervisor_uri   : "https://takfarinassaber.github.io/"
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=ufzyPOQAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-0486-0465"
+  orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Ahmed-Moursi"
+  researchgate     : # URL
   scopus           : # URL
 
   # Repositories and software development
