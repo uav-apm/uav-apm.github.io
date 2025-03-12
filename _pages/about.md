@@ -20,7 +20,7 @@ Co-funded by the European Union. Views and opinions expressed are however those 
     <img src="/images/logos/UoG.png" alt="University of Galway Logo" width="60%">
 </a>
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table  style="border:0; border-collapse: collapse;" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <a href="https://symeco.lero.ie/programme/">
@@ -33,20 +33,15 @@ Co-funded by the European Union. Views and opinions expressed are however those 
       </a>
     </td>
   </tr>
-</table>
-
-
-
-<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-     <a href="https://www.researchireland.ie/">
-    <img src="/images/logos/Research_Ireland.png" alt="Research Ireland" width="60%">
-</a>
+    <a href="https://euraxess.ec.europa.eu/worldwide/africa/news/6-marie-sklodowska-curie-postdoc-fellowships-symeco-ireland">
+    <img src="/images/logos/EU Logo blue & yellow.jpg" alt="European Commision Logo" >
+</a>    
     </td>
     <td>
-     <a href="https://euraxess.ec.europa.eu/worldwide/africa/news/6-marie-sklodowska-curie-postdoc-fellowships-symeco-ireland">
-    <img src="/images/logos/EU Logo blue & yellow.jpg" alt="European Commision Logo" width="60%">
+  <a href="https://www.researchireland.ie/">
+    <img src="/images/logos/Research_Ireland.png" alt="Research Ireland" >
 </a>
     </td>
   </tr>
