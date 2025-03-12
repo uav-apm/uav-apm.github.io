@@ -20,36 +20,32 @@ Co-funded by the European Union. Views and opinions expressed are however those 
     <img src="/images/logos/UoG.png" alt="University of Galway Logo" width="60%">
 </a>
 
-<table  style="border:0; border-collapse: collapse;" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
+<table style="border:0; border-collapse: collapse;" cellspacing="0" cellpadding="0">
+  <tr style="border:0;">
+    <td style="border:0;">
       <a href="https://symeco.lero.ie/programme/">
-        <img src="/images/logos/SyMeCo.png" alt="Systems Methods Context (SyMeCo) Logo" >
+        <img src="/images/logos/SyMeCo.png" alt="Systems Methods Context (SyMeCo) Logo">
       </a>
     </td>
-    <td>
+    <td style="border:0;">
       <a href="https://lero.ie/">
         <img src="/images/logos/LERO.png" alt="LERO Logo">
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-    <a href="https://euraxess.ec.europa.eu/worldwide/africa/news/6-marie-sklodowska-curie-postdoc-fellowships-symeco-ireland">
-    <img src="/images/logos/EU Logo blue & yellow.jpg" alt="European Commision Logo" >
-</a>    
+  <tr style="border:0;">
+    <td style="border:0;">
+      <a href="https://euraxess.ec.europa.eu/worldwide/africa/news/6-marie-sklodowska-curie-postdoc-fellowships-symeco-ireland">
+        <img src="/images/logos/EU Logo blue & yellow.jpg" alt="European Commision Logo">
+      </a>
     </td>
-    <td>
-  <a href="https://www.researchireland.ie/">
-    <img src="/images/logos/Research_Ireland.png" alt="Research Ireland" >
-</a>
+    <td style="border:0;">
+      <a href="https://www.researchireland.ie/">
+        <img src="/images/logos/Research_Ireland.png" alt="Research Ireland">
+      </a>
     </td>
   </tr>
 </table>
-
-
-
-
 
  <a href="https://www.epa.ie/">
     <img src="/images/logos/EPA.jpg" alt="Environmental Protection Agency (EPA) Logo" width="60%">
