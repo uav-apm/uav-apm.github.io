@@ -8,7 +8,11 @@ redirect_from:
 ---
 
 Air pollution and climate change are major environmental challenges requiring innovative solutions. This project aims to develop a flexible Air Quality Monitoring System (AQMS) using UAV-mounted sensors to collect and predict air pollutant concentrations efficiently. Designed for rapid deployment at events like city fairs, outdoor sports, and industrial sites, the system optimizes data collection by predicting air quality with minimal sensing locations. Building on research in UAV-based sensing, pollutant prediction, and optimized sensor placement, this solution enhances monitoring efficiency, reduces costs, and supports authorities in protecting public health, particularly during short-term pollution spikes.
+<div>
 
+The project is expected to have a significant impact in various areas, including environmental protection, health benefits, efficiency and cost-effectiveness, versatility, scientific advancement, economic impact, policy influence, and public awareness. It aims to improve air quality monitoring and prediction, protect people with respiratory conditions, reduce costs through optimized sensing tasks, and quickly deploy in various events. The research will advance air pollution sensing and monitoring, reduce costs of mitigating air pollution, influence policymakers, and raise public awareness.
+
+</div>
 <div>
 This work has emanated from research jointly funded by Taighde Éireann – Research Ireland under Grant number 13/RC/2094_2.
 
