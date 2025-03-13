@@ -11,14 +11,19 @@ Air pollution and climate change are major environmental challenges requiring in
 <div>
 
 The project is expected to have a significant impact in various areas, including environmental protection, health benefits, efficiency and cost-effectiveness, versatility, scientific advancement, economic impact, policy influence, and public awareness. It aims to improve air quality monitoring and prediction, protect people with respiratory conditions, reduce costs through optimized sensing tasks, and quickly deploy in various events. The research will advance air pollution sensing and monitoring, reduce costs of mitigating air pollution, influence policymakers, and raise public awareness.
-
+<br/>
 </div>
+<hr>
 <div>
-This work has emanated from research jointly funded by Taighde Éireann – Research Ireland under Grant number 13/RC/2094_2.
+This work has emanated from research jointly funded by <span style="font-weight:bold"> Taighde Éireann – Research Ireland </span> under Grant number 13/RC/2094_2 and Co-funded by the <span style="font-weight:bold">European Union</span>. 
 
-Co-funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them. 
+Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them. 
+<hr>
 
+<br/>
 </div>
+
+
 <div></div>
 <a href="https://www.universityofgalway.ie/">
     <img src="/images/logos/UoG.png" alt="University of Galway Logo" width="60%">
