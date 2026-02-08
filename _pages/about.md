@@ -15,9 +15,8 @@ The project is expected to have a significant impact in various areas, including
 </div>
 <hr>
 <div>
-This work has emanated from research jointly funded by <span style="font-weight:bold"> Taighde Éireann – Research Ireland </span> under Grant number 13/RC/2094_2 and Co-funded by the <span style="font-weight:bold">European Union</span>. 
 
-Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them. 
+This work was supported, in part, by <span style="font-weight:bold">Taighde Éireann – Research Ireland</span> under Grant number 13/RC/2094_2. Co-funded by the <span style="font-weight:bold">European Union</span> under the Systems, Methods, Context (SyMeCo) Programme Grant Agreement Number 101081459. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
 <hr>
 
 <br/>
