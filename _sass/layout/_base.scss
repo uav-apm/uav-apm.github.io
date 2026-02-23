@@ -139,8 +139,13 @@ a > code,
 figcaption > code,
 li > code,
 p > code,
+<<<<<<< HEAD
 td > code {
   color: var(--global-code-text-color);
+=======
+pre > code,
+td > code {
+>>>>>>> origin/master
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
   font-size: $type-size-6;
@@ -148,6 +153,10 @@ td > code {
   border: 1px solid var(--global-thead-color);
   border-radius: $border-radius;
   box-shadow: $box-shadow;
+<<<<<<< HEAD
+=======
+  color: var(--global-code-text-color);
+>>>>>>> origin/master
 
   &:before, &:after {
     letter-spacing: -0.2em;
@@ -155,6 +164,7 @@ td > code {
   }
 }
 
+<<<<<<< HEAD
 a > code {
     color: inherit;
 }
@@ -163,6 +173,8 @@ pre > code {
   color: var(--global-code-text-color);
 }
 
+=======
+>>>>>>> origin/master
 /* horizontal rule */
 
 hr {

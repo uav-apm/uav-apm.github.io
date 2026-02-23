@@ -7,8 +7,11 @@ redirect_from:
   - /markdown.html
 ---
 
+<<<<<<< HEAD
 {% include toc %}
 
+=======
+>>>>>>> origin/master
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
@@ -40,6 +43,7 @@ redirect_from:
 * While GitHub Pages prevents server side code from running, client-side scripts are supported.
   * This means that Google Analytics is supported, and [the wiki](https://github.com/academicpages/academicpages.github.io/wiki/Adding-Google-Analytics) should contain the most up-to-date information on getting it working.
 
+<<<<<<< HEAD
 * Your CV can be written using either Markdown ([preview](https://academicpages.github.io/cv/)) or generated via JSON ([preview](https://academicpages.github.io/cv-json/)) and the layouts are slightly different. You can update the path to the one being used in `_data/navigation.yml` with the JSON formatted CV being hidden by default.
 
  * The [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/) is a useful guide for those that want to add functionality to the template or to become contributors to the [template on GitHub](https://github.com/academicpages/academicpages.github.io).
@@ -47,6 +51,15 @@ redirect_from:
 ## MathJax 
 
 Support for MathJax (version 3.* via [jsDelivr](https://www.jsdelivr.com/), [documentation](https://docs.mathjax.org/en/latest/)) is included in the template:
+=======
+## Resources
+ * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+ * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
+
+## MathJax 
+
+Support for MathJax Version 3.0 is included in the template:
+>>>>>>> origin/master
 
 $$
 \displaylines{
@@ -59,6 +72,7 @@ $$
 
 The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed mathematics, while `\\(...\\)` should be used for in-line mathematics (ex., \\(a^2 + b^2 = c^2\\))
 
+<<<<<<< HEAD
 **Note** that since Academic Pages uses Markdown which cases some interference with MathJax and LaTeX for escaping characters and new lines, although [some workarounds exist](https://math.codidact.com/posts/278763/278772#answer-278772). In some cases, such as when you are including MathJax in a `citation` field for publications, it may be necessary to use `\(...\)` for inline delineation.
 
 ## Mermaid diagrams
@@ -217,6 +231,9 @@ Essentially what is taking place is that the [Plotly attributes](https://plotly.
   }
 }
 ```
+=======
+**Note** that since Academic Pages uses Markdown which cases some interference with MathJax and LaTeX for escaping characters and new lines, although [some workarounds exist](https://math.codidact.com/posts/278763/278772#answer-278772).
+>>>>>>> origin/master
 
 ## Markdown guide
 
@@ -345,7 +362,11 @@ This is the regular text.[^1] This is more regular text.[^note]
 
 ### Anchor Tag (aka. Link)
 
+<<<<<<< HEAD
 This is an example of a [link](https://github.com "GitHub").
+=======
+This is an example of a [link](http://github.com "GitHub").
+>>>>>>> origin/master
 
 ### Abbreviation Tag
 

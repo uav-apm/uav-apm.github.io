@@ -84,7 +84,11 @@
       text-align: center;
       text-decoration: none;
       color: var(--global-text-color-light);
+<<<<<<< HEAD
       border: 1px solid var(--global-border-color);
+=======
+      border: 1px solid var(var(--global-border-color));
+>>>>>>> origin/master
       border-radius: 0;
 
       &:hover {
@@ -132,7 +136,11 @@
     text-align: center;
     text-decoration: none;
     color: var(--global-text-color-light);
+<<<<<<< HEAD
     border: 1px solid var(--global-border-color);
+=======
+    border: 1px solid var(var(--global-border-color));
+>>>>>>> origin/master
     border-radius: $border-radius;
 
     &:hover {
@@ -196,8 +204,13 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
+<<<<<<< HEAD
     background-color: var(--global-bg-color);
     color: var(--global-text-color);
+=======
+    background-color: var(--global-base-color);
+    color: #fff;
+>>>>>>> origin/master
     cursor: pointer;
     z-index: 100;
   }
@@ -225,6 +238,7 @@
       }
     }
 
+<<<<<<< HEAD
     #theme-toggle {
       a {
         width: 25px;
@@ -234,6 +248,8 @@
       }
     }
 
+=======
+>>>>>>> origin/master
     a {
       position: relative;
 
@@ -268,7 +284,11 @@
     padding: 5px;
     border: 1px solid var(--global-border-color);
     border-radius: $border-radius;
+<<<<<<< HEAD
     background: var(--global-bg-color);
+=======
+    background: #fff;
+>>>>>>> origin/master
     box-shadow: 0 0 10px rgba(#000, 0.25);
 
     a {
@@ -303,7 +323,11 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
+<<<<<<< HEAD
       border-color: var(--global-bg-color) transparent;
+=======
+      border-color: #fff transparent;
+>>>>>>> origin/master
       display: block;
       z-index: 1;
     }
@@ -409,7 +433,11 @@
   a {
     display: block;
     padding: 0.5rem 1rem;
+<<<<<<< HEAD
     color: var(--global-code-text-color);
+=======
+    color: var(--global-text-color-light);
+>>>>>>> origin/master
     font-size: $type-size-7;
     font-weight: bold;
     line-height: 1.5;
@@ -441,4 +469,8 @@
       display: block;
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master

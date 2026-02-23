@@ -83,7 +83,11 @@ for row, item in talks.iterrows():
     if len(str(item.venue)) > 3:
         md += 'venue: "' + item.venue + '"\n'
         
+<<<<<<< HEAD
     if len(str(item.date)) > 3:
+=======
+    if len(str(item.location)) > 3:
+>>>>>>> origin/master
         md += "date: " + str(item.date) + "\n"
     
     if len(str(item.location)) > 3:

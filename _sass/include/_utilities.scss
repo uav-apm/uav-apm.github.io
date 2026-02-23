@@ -54,7 +54,11 @@ body:hover .visually-hidden button {
   font-size: 1em;
   font-weight: bold;
   padding: 15px 23px 14px;
+<<<<<<< HEAD
   background: var(--global-text-color);
+=======
+  background: #fff;
+>>>>>>> origin/master
   z-index: 100000;
   text-decoration: none;
   box-shadow: 0 0 2px 2px rgba(0,0,0,.6);
@@ -227,6 +231,15 @@ body:hover .visually-hidden button {
     color: $foursquare-color;
   }
 
+<<<<<<< HEAD
+=======
+  .fa-github,
+  .fa-github-alt,
+  .fa-github-square {
+    color: $github-color;
+  }
+
+>>>>>>> origin/master
   .fa-google-plus,
   .fa-google-plus-square {
     color: $google-plus-color;
@@ -319,11 +332,17 @@ body:hover .visually-hidden button {
 
 .navicon {
   position: relative;
+<<<<<<< HEAD
   display: inline-block;
   vertical-align: middle;
   width: $navicon-width;
   height: $navicon-height;
   background: var(--global-masthead-link-color);
+=======
+  width: $navicon-width;
+  height: $navicon-height;
+  background: #fff;
+>>>>>>> origin/master
   margin: auto;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -335,7 +354,11 @@ body:hover .visually-hidden button {
     left: 0;
     width: $navicon-width;
     height: $navicon-height;
+<<<<<<< HEAD
     background: var(--global-masthead-link-color);
+=======
+    background: #fff;
+>>>>>>> origin/master
     -webkit-transition: 0.3s;
     transition: 0.3s;
   }
@@ -441,7 +464,11 @@ body:hover .visually-hidden button {
   margin-top: -150px;
   min-height: 0;
   z-index: 9999;
+<<<<<<< HEAD
   background: var(--global-text-color);
+=======
+  background: #fff;
+>>>>>>> origin/master
   border: 1px solid var(--global-border-color);
   border-radius: $border-radius;
   box-shadow: $box-shadow;
