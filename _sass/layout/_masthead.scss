@@ -5,12 +5,7 @@
 .masthead {
   position: fixed;
   background: var(--global-bg-color);
-<<<<<<< HEAD
   height: fit-content;
-=======
-  border-bottom: 1px solid var(--global-border-color);
-  height: $masthead-height;
->>>>>>> origin/master
   top: 0;
   width: 100%;
 
@@ -20,7 +15,6 @@
           animation-delay: 0.15s;
   z-index: 20;
 
-<<<<<<< HEAD
   &::after {
     content: "";
     position: absolute;
@@ -34,12 +28,6 @@
     @include container;
     @include clearfix;
     padding: 0.5em 1em;
-=======
-  &__inner-wrap {
-    @include container;
-    @include clearfix;
-    padding: 1em 1em 1em;
->>>>>>> origin/master
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -76,7 +64,6 @@
     padding-right: 2em;
     font-weight: 700;
   }
-<<<<<<< HEAD
 }
 
 .masthead__menu-item.selected a {
@@ -92,6 +79,3 @@
   border-bottom: 2px solid var(--global-text-color);
   /* No need to repeat pointer-events and cursor here */
 }
-=======
-}
->>>>>>> origin/master

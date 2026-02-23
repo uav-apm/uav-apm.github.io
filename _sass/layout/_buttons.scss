@@ -118,19 +118,12 @@
   /* social buttons */
 
   $social:
-<<<<<<< HEAD
   (bluesky, $bluesky-color),
   (facebook, $facebook-color),
   (google-plus, $google-plus-color),
   (linkedin, $linkedin-color),
   (mastodon, $mastodon-color),
   (twitter, $twitter-color); 
-=======
-  (facebook, $facebook-color),
-  (twitter, $twitter-color),
-  (google-plus, $google-plus-color),
-  (linkedin, $linkedin-color);
->>>>>>> origin/master
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
@@ -159,8 +152,4 @@
   &--small {
     font-size: $type-size-7;
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> origin/master
