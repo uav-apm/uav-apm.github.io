@@ -44,7 +44,7 @@ This work was supported, in part, by <span style="font-weight:bold">Taighde Éir
   <tr style="border:0;">
     <td style="border:0;">
       <a href="https://euraxess.ec.europa.eu/worldwide/africa/news/6-marie-sklodowska-curie-postdoc-fellowships-symeco-ireland">
-        <img src="/images/logos/EN_Co-fundedbytheEU_RGB_NEG.png" alt="European Commision Logo">
+        <img src="/images/logos/EN_Co-fundedbytheEU_RGB_POS.png" alt="European Commision Logo">
       </a>
     </td>
     <td style="border:0;">
