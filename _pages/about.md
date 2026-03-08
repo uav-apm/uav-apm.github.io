@@ -49,7 +49,7 @@ This work was supported, in part, by <span style="font-weight:bold">Taighde Éir
     </td>
     <td style="border:0;">
       <a href="https://www.researchireland.ie/">
-        <img src="/images/logos/Research_Ireland.png" alt="Research Ireland">
+        <img src="/images/logos/Research_Ireland_RGB_logo_lavender-scaled.png" alt="Research Ireland">
       </a>
     </td>
   </tr>
